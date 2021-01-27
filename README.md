@@ -1,2 +1,2 @@
 # ExerciciosPython
- Esse repositório será de alguns exercícios de python.
+ Esse repositório será alguns exercícios de python.

@@ -43,4 +43,3 @@ while opção != 6:
     print('=*'*18)
 sleep(2)
 print('Fim do Programa! Volte sempre!')
-sleep(2)

@@ -1,4 +1,3 @@
-from time import sleep
 estabelecimento = input(str('Qual é o tipo do estabelecimento: ')).strip().title()
 nome = input(str('Qual é o nome da(o) {}: '.format(estabelecimento))).strip().title()
 print('=+='*7)
@@ -27,4 +26,3 @@ else:
     total = preço
     print('OPÇÃO INVÁLIDA. TENTE NOVAMENTE !')
 print('Sua compra de R${:.2f} vai custar R${:.2f} no final.'.format(preço, total))
-sleep(10)

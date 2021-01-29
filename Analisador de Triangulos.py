@@ -1,4 +1,3 @@
-from time import sleep
 print('=*='*10)
 print('Analisador de Triangulos:')
 print('=*='*10)
@@ -15,4 +14,3 @@ if p1 < p2 + p3 and p2 < p1 + p3 and p3 < p1 + p2:
         print(' ESCALENO !')
 else:
     print('Os segmentos acima NÃO PODEM FORMAR um triangulo!')
-sleep(5)
